@@ -16,4 +16,9 @@ class Model():
         extractor.candidate_weighting()
         keyphrases = extractor.get_n_best(n=10)
         words = [x[0] for x in keyphrases]
+        # for word in words:
+        #     website = website.replace(word,
+        #                 "<span style='color: red; font-weight: bold'>" + word + "</span>")
+
+        # return website
         return words
