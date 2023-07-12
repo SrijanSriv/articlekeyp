@@ -1,5 +1,12 @@
 # ArticleKeyP
 
+
+
+https://github.com/SrijanSriv/articlekeyp/assets/79690889/d9bd6ba2-1140-4723-ab88-c5b067c2c12f
+
+Early Development Preview
+
+
 ## Overview
 
 ArticleKeyP i.e. Article Key Keypoints is a browser extension that creats a breadcrumb of highlights in an article for ease of grasping the content.
