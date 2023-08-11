@@ -35,7 +35,7 @@ Pillow==10.0.0
 git+https://github.com/boudinfl/pke.git
 preshed==3.0.8
 pydantic==1.10.11
-pysqlite==2.8.2
+sqlite3
 python-dateutil==2.8.2
 PyYAML==6.0
 regex==2023.6.3
